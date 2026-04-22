@@ -1,0 +1,6 @@
+.env
+data/flyff.db
+data/emojis.json
+__pycache__/
+*.pyc
+*.pyo
