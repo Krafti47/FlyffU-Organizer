@@ -29,7 +29,7 @@ A Discord bot for Flyff Universe guilds to manage **Siege (PvP)** and **PvE** gr
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FlyffU-Organizer.git
+git clone https://github.com//Krafti47/FlyffU-Organizer.git
 cd FlyffU-Organizer
 pip install -r requirements.txt
 ```
